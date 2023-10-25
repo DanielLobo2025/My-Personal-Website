@@ -2,4 +2,4 @@
 
 Framework:SvelteKit
 
-Languages: HTML5, TailWindCSS, and JavaScript
+Languages: HTML5, TailWindCSS, and JavaScript 
