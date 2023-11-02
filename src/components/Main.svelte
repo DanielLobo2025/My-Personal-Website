@@ -95,7 +95,7 @@ let benefits = [
                 <p>developed a Study Bot that can help you manage your study sessions effectively. With a simple command, 
                     it tracks the duration of your study session and provides timely reminders to take breaks every 25 minutes. 
                     You also have the flexibility to end your study session whenever you wish. I recently integrated OpenAi's API to allow users to
-                    ask chatgpt study related questions from their own server.Created with 
+                    ask chatgpt study related questions from their own server. Created with 
                      <strong
                         class="text-violet-400">Python and Node.js</strong
                     >.
