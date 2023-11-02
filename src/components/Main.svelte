@@ -49,7 +49,7 @@ let benefits = [
             </h2>
             <p class="text-base sm:text-lg md:text-xl">
                 My <span class="text-violet-400">favorite tech</span> includes Python, Java, JavaScript, 
-                SvelteKit, Tailwind CSS, C, C++, Bash
+                SvelteKit, Tailwind CSS, C, C++, Bash, Node.js
             </p>
         
             <a href="https://www.linkedin.com/in/csdaniellobo/" class="blueShadow mx-auto lg:ml-0 text-base sm:text-lg md:text-xl poppins 
