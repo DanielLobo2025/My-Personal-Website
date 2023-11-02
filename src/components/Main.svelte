@@ -83,7 +83,7 @@ let benefits = [
         <div class="grid grid-cols-1 lg:grid-cols-3 gap-12 lg:gap-10">
             <Step step={steps[0]}>
                 <p>
-                    Assemble lexical analyzer with 33 token types, top-down recursive descent parser, 
+                    Assembled a lexical analyzer with 33 token types, top-down recursive descent parser, 
                     and interpreter for programming language with 19 grammar rules. Created in
                     <strong
                 class="text-violet-400"
@@ -94,9 +94,10 @@ let benefits = [
             <Step step={steps[1]}>
                 <p>developed a Study Bot that can help you manage your study sessions effectively. With a simple command, 
                     it tracks the duration of your study session and provides timely reminders to take breaks every 25 minutes. 
-                    You also have the flexibility to end your study session whenever you wish. Created with 
+                    You also have the flexibility to end your study session whenever you wish. I recently integrated OpenAi's API to allow users to
+                    ask chatgpt study related questions from their own server.Created with 
                      <strong
-                        class="text-violet-400">Python and the Discord.py</strong
+                        class="text-violet-400">Python and Node.js</strong
                     >.
                 </p>
             </Step>
