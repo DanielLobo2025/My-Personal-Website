@@ -4,7 +4,7 @@
     let tabs = [
         {name:"Projects", link:"#projects"},
         {name:"About Me", link:"#about"},
-        {name:"Resume", link:"https://drive.google.com/file/d/1jUhu4g6L0tUxRTBGipxcBC5A0TrlqJE7/view?usp=sharing"},
+        {name:"Resume", link:"https://drive.google.com/file/d/1io5HBOMyWQI6j3aD1vnHNTnTn__kNiPn/view?usp=sharing"},
         
 
 ];
